@@ -1,0 +1,17 @@
+{
+  "name": "data_printed",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "google-auth-library": "^9.14.2",
+    "googleapis": "^144.0.0"
+  }
+}
